@@ -1,0 +1,5 @@
+My Weather API Key : 9d9ae15a936fac38858285d21967fa02
+API Request By Citi Name: https://api.openweathermap.org/data/2.5/weather?units=metric&q=
+
+
+℃
